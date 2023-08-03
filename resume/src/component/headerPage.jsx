@@ -5,6 +5,7 @@ function Header (){
     <>
       <div className="HeaderSection">
         <img
+          className="profilePic"
           src="https://cdn.pic.in.th/file/picinth/profilepic.jpeg"
           alt="ProfilePicture"
         />
