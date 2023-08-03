@@ -63,8 +63,8 @@ body {
 
 /* Profile picture styles */
 .profilePic {
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
   border-radius: 50%;
   border: 5px solid white;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
