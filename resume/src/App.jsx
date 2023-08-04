@@ -4,7 +4,7 @@ import React from "react";
 import "./App.css";
 import Header from "./component/headerPage";
 import Main from "./component/bodyPage"; // Importing the Main component
-import Footer from "./component/footerPage";
+import FooterPage from "./component/footer";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <div>
         <Header />
         <Main /> 
-        <Footer />
+        <FooterPage />
       </div>
     </>
   );
